@@ -1,0 +1,227 @@
+[
+    {
+
+        "category_id": "C3" ,
+        "category_name": "Fashion",
+        "Fashion_id3" : "babygirl",
+        
+        "item_id": "FBG1",               
+        "product_id" : "11ba_11by_11girl_fashion",
+        "Image_url" : "https://i.ibb.co/MMXwhtR/kidg1-1.jpg"   ,
+        "name" : "Party Wear Dress",
+        "Rating_1" : 4.1,
+        "Size": "6-12Months",
+        "description": "Baby pink Party wear net layered Frock",
+        "color": "baby pink",
+        "price" : 499 ,
+        
+        
+        "detail" : "Baby pink Party wear net layered Frock",
+        "Rating": 2300,
+        "Review" : 500,
+        "New_price" : 499,
+        "Old_price" : 750,
+        "Offer_1" : "Bank offer 10% off",
+        "Offer_2" : "delievry Free",
+        "Offer_3" : "Coupon Available",
+        "image_galary" : [
+        
+                     "https://i.ibb.co/MMXwhtR/kidg1-1.jpg",  
+                     "https://i.ibb.co/47s2xV4/kidg1-2.jpg",
+                     "https://i.ibb.co/9ZS5bvb/kidg1-3.jpg"
+            
+                ]
+
+    },
+
+
+
+
+
+
+    {
+
+        "category_id": "C3" ,
+        "category_name": "Fashion",
+        "Fashion_id3" : "babygirl",
+        
+        "item_id": "FBG2",               
+        "product_id" : "22ba_22by_22girl_fashion",
+        "Image_url" : "https://i.ibb.co/VHFNM69/kid2.jpg"   ,
+        "name" : "Adorable Outfit for kids",
+        "Rating_1" : 4.3,
+        "Size": "0-6Months",
+        "description": "Adorable red and white Color Princess Dress",
+        "color": "red & white",
+        "price" : 499 ,
+        
+        
+        "detail" : "Adorable red and white Color Princess Dress for baby girl",
+        "Rating": 2300,
+        "Review" : 500,
+        "New_price" : 499,
+        "Old_price" : 750,
+        "Offer_1" : "Bank offer 10% off",
+        "Offer_2" : "delievry Free",
+        "Offer_3" : "Coupon Available",
+        "image_galary" : [
+        
+                      "https://i.ibb.co/VHFNM69/kid2.jpg",
+                      "https://i.ibb.co/0M0rMBC/kidg2-1.jpg",
+                      "https://i.ibb.co/LkGL5rc/kidg2-2.jpg"
+                ]
+
+    },
+
+
+
+
+
+  
+ {
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id3" : "babygirl",
+    
+    "item_id": "FBG3",               
+    "product_id" : "33ba_33by_33girl_fashion",
+    "Image_url" : "https://i.ibb.co/qWBj147/kidg4.jpg"  ,
+    "name" : "Baby Girl Dress",
+    "Rating_1" : 4.5,
+    "Size": "12-24Months",
+    "description": "Cotton Blend Daily use Gils's Frock",
+    "color": "yellow",
+    "price" : 999 ,
+    
+    
+    "detail" : "Cotton Blend Daily use Gils's Frock (yellow)",
+    "Rating": 200,
+    "Review" : 80,
+    "New_price" : 999,
+    "Old_price" : 1550,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+               "https://i.ibb.co/qWBj147/kidg4.jpg" ,
+               "https://i.ibb.co/HxpS2Wy/kidg4-1.jpg",
+               "https://i.ibb.co/nbTPw29/kidg4-2.jpg" 
+            ]   
+ } , 
+
+
+
+
+
+
+ {
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id3" : "babygirl",
+    
+    "item_id": "FBG4",               
+    "product_id" : "44ba_44by_44girl_fashion",
+    "Image_url" : "https://i.ibb.co/QHt3YSH/kidg3.jpg" ,
+    "name" : "Party Wear dress",
+    "Rating_1" : 4.1,
+    "Size": "6-12Months",
+    "description": "A-Line Rainbow Layered Party Frock Midi Dress",
+    "color": "multicolor",
+    "price" : 1200 ,
+    
+    
+    "detail" : "A-Line Rainbow Layered Party Frock Midi Dress for Girls",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 1200,
+    "Old_price" : 2000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/QHt3YSH/kidg3.jpg",
+                   "https://i.ibb.co/HC198Xs/kidg3-1.jpg" ,
+                   "https://i.ibb.co/bQCc1YD/kidg3-2.jpg"  
+              
+            ] 
+
+ },
+
+
+
+
+ {
+
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id3" : "babygirl",
+    
+    "item_id": "FBG5",               
+    "product_id" : "55ba_55by_55girl_fashion",
+    "Image_url" : "https://i.ibb.co/jH9Yp3k/kidg6.jpg" ,
+    "name" : "Mini Dress",
+    "Rating_1" : 3.5,
+    "Size": "0-6Months",
+    "description": "Bowknot Decor Sleeveless Baby Set pack of 2",
+    "color": "blue",
+    "price" : 699 ,
+    
+    
+    "detail" : "Bowknot Decor Sleeveless Baby Set pack of 2",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/jH9Yp3k/kidg6.jpg",
+                   "https://i.ibb.co/3FrRV1Z/kidg6-1.jpg",
+                   "https://i.ibb.co/tpQJtWD/kidg6-2.jpg" 
+            ] 
+
+ },
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id3" : "babygirl",
+    
+    "item_id": "FBG6",               
+    "product_id" : "66ba_66by_66girl_fashion",
+    "Image_url" : "https://i.ibb.co/S5tk7VK/kidg5.jpg"  ,
+    "name" : "Baby Girls' Dress",
+    "Rating_1" : 3.3,
+    "Size": "0-6Months",
+    "description": "Party wear Frock for Girls with Knee Length ",
+    "color": "white",
+    "price" : 2100 ,
+    
+    
+    "detail" : "Party wear Frock for Girls with Knee Length",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 2100,
+    "Old_price" : 3999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                  "https://i.ibb.co/72jHB1S/kidg5-2.jpg" ,
+                  "https://i.ibb.co/xqsS0B8/kidg5-1.jpg",
+                  "https://i.ibb.co/vhd80ZZ/kidg5-3.jpg"  
+                  
+            ] 
+
+}
+
+
+
+]

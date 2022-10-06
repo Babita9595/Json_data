@@ -1,0 +1,242 @@
+
+
+[
+{
+
+ "category_id": "C2" ,
+"category_name": "Mobile",
+
+"scroll_id": 1,
+
+"item_id": "ML1",               
+"product_id" : "11mo_11bi_11_le",
+"Image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWCySaDAP7ld2IixUENaPYRBvjGUyJoRog&usqp=CAU",
+"name" : "SAMSUNG S20 FE 5G",
+"Rating_1" : 4.3,
+"Brand": "Samsung",
+"description": "(Cloud Navy, 128 GB) (8 GB RAM)",
+"color": "cloud navy",
+"price" : 32899,
+
+"detail" : "SAMSUNG S20 FE 5G (Cloud Navy, 128 GB) (8 GB RAM)",
+"Rating": 2300,
+"Review" : 500,
+"New_price" : 32899,
+"Old_price" : 40000,
+"Offer_1" : "Bank offer 10% off",
+"Offer_2" : "delievry Free",
+"Offer_3" : "EMI starting from 10k",
+"image_galary" : [
+
+            "https://m.media-amazon.com/images/I/71jurfT07uL._AC_SS450_.jpg" ,
+            "https://www.91-cdn.com/pricebaba-blogimages/wp-content/uploads/2020/08/Samsung-Galaxy-S20-FE_2.jpg" ,
+            "https://smartmania.cz/wp-content/uploads/2020/10/Samsung_Galaxy_S20_FE_008-650x431.jpg" 
+
+                
+                ]
+
+},
+
+
+
+
+
+
+{
+
+ "category_id": "C2" ,
+ "category_name": "Mobile", 
+
+ "scroll_id": 1,
+
+ "item_id": "ML2",               
+"product_id" : "22mo_22bi_22_le",
+"Image_url" :"https://rukminim1.flixcart.com/image/416/416/l3xcr680/mobile/a/x/k/-original-imagexezkeefuadb.jpeg?q=70" ,
+"name" : "SAMSUNG Galaxy A53",
+"Rating_1" : 4.3,
+"Brand": "Samsung",
+"description": "(Awesome Blue, 128 GB) (8 GB RAM)",
+"color": "Awesome Blue",
+"price" : 40889,
+
+"detail" : "SAMSUNG Galaxy A53 (Awesome Blue, 256 GB) (8 GB RAM)",
+"Rating": 2300,
+"Review" : 500,
+"New_price" : 40889,
+"Old_price" : 50000,
+"Offer_1" : "Bank offer 10% off",
+"Offer_2" : "delievry Free",
+"Offer_3" : "EMI starting from 10k",
+
+"image_galary" : [
+
+    "https://m.media-amazon.com/images/I/71gSMDJvSeL.jpg" ,
+    "https://images.samsung.com/is/image/samsung/p6pim/levant/2202/feature/levant-feature-now-spill--splash-and-splatter-resistant-531473574?$FB_TYPE_C_JPG$",
+    "https://www.hitechcentury.com/wp-content/uploads/2022/04/20220419_151234-01_compress47-1024x576.jpg" 
+
+        ]
+    
+    
+},
+
+
+
+
+
+
+{
+ "category_id": "C2" ,
+ "category_name": "Mobile", 
+
+ "scroll_id": 1,
+
+ "item_id": "ML3",               
+"product_id" : "33mo_33bi_33_le",
+"Image_url" :"https://phonesdata.com/files/models/Xiaomi-Redmi-Note-10T-5G-102.jpg" ,
+"name" : "REDMI Note 10T 5G",
+"Rating_1" : 4.5,
+"Brand": "Redmi",
+"description": "(Graphite Black, 128 GB) (6 GB RAM)",
+"color": "Graphite Black",
+"price" : 18889,
+
+"detail" : "REDMI Note 10T 5G (Graphite Black, 128 GB) (6 GB RAM)",
+"Rating": 2500,
+"Review" : 400,
+"New_price" : 18889,
+"Old_price" : 30000,
+"Offer_1" : "Bank offer 10% off",
+"Offer_2" : "delievry Free",
+"Offer_3" : "EMI starting from 10k",
+
+"image_galary" : [
+
+          "https://images.livemint.com/img/2021/07/20/1600x900/Redmi_Note_10T_5G_1626764342192_1626764347800.PNG" ,
+          "https://asset20.ckassets.com/resources/image/ckseller/CKS-Mobiles-000158_2-1634130091.jpg" ,
+          "https://www.shopkees.com/cdn/images/1000/1724184021_1621487941.jpg" 
+
+
+        ]
+
+
+},
+
+
+
+
+
+{
+ "category_id": "C2" ,
+ "category_name": "Mobile", 
+
+ "scroll_id": 1,
+
+ "item_id": "ML4",               
+ "product_id" : "44mo_44bi_44_le",
+ "Image_url" :"https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-9-pro-max-1.jpg" ,
+ "name" : "REDMI Note 9 4G",
+ "Rating_1" : 4.1,
+ "Brand": "Redmi",
+ "description": "(Aqua Green, 128 GB) (4 GB RAM)",
+ "color": "Aqua Green",
+ "price" : 14599,
+
+ "detail" : "REDMI Note 9 Pro (Aqua Green, 128 GB) (4 GB RAM)",
+"Rating": 2500,
+"Review" : 400,
+"New_price" : 15599,
+"Old_price" : 20000,
+"Offer_1" : "Bank offer 10% off",
+"Offer_2" : "delievry Free",
+"Offer_3" : "EMI starting from 10k",
+
+"image_galary" : [
+
+    "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-9-pro-max-1.jpg" ,
+    "https://techsanchar.com/wp-content/uploads/2021/01/redmi-note-9-build-and-outer-design.jpg" ,
+    "https://fdn.gsmarena.com/imgroot/reviews/20/xiaomi-redmi-note-9/lifestyle/-727w2/gsmarena_001.jpg" 
+    
+
+  ]
+
+
+},
+
+
+
+
+
+
+{
+"category_id": "C2" ,
+"category_name": "Mobile", 
+
+"scroll_id": 1,
+
+"item_id": "ML5",               
+ "product_id" : "55mo_55bi_55_le",
+ "Image_url" :"https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2020/10/OnePlus-Nord-N100-Official.jpg?resize=552%2C648&ssl=1" ,
+ "name" : "OnePlus 10 5G",
+ "Rating_1" : 3.5,
+ "Brand": "OnePlus",
+ "description": "(Classic Black, 128 GB)  (8 GB RAM)",
+ "color": "Classic Black",
+ "price" : 22999,
+
+ "detail" : "OnePlus 10 Pro (Black, 128 GB) (8 GB RAM)",
+ "Rating": 220,
+ "Review" : 75,
+ "New_price" : 22999,
+ "Old_price" : 25000,
+ "Offer_1" : "Bank offer 10% off",
+ "Offer_2" : "delievry Free",
+ "Offer_3" : "EMI starting from 10k",
+ "image_galary" : [
+
+              "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9r/Carbon-Black-gallery..png",
+              "https://fdn.gsmarena.com/imgroot/reviews/22/oneplus-10-pro/lifestyle/-1200w5/gsmarena_001.jpg" ,
+              "https://www.notebookcheck.net/fileadmin/_processed_/7/1/csm_20220418_151615_6a3a456908.jpg" 
+
+  ]
+
+
+},
+
+
+
+
+{
+
+ "category_id": "C2" ,
+ "category_name": "Mobile",
+
+ "scroll_id": 1,
+ 
+ "item_id": "ML6",               
+ "product_id" : "66mo_66bi_66_le",
+ "Image_url" :"https://yams.kufar.by/api/v1/kufar-ads/images/26/2620429978.jpg?rule=gallery" ,
+ "name" : "OnePlus Nord 2 5G",
+ "Rating_1" : 3.3,
+ "Brand": "OnePlus",
+ "description": "( Green, 128 GB) (8 GB RAM)",
+ "color": "Green",
+ "price" : 32889,
+
+ "detail" : "Oneplus Nord 2 5G (Green, 128 GB) (8 GB RAM)",
+ "Rating": 100,
+ "Review" : 50,
+ "New_price" : 32889,
+ "Old_price" : 40000,
+ "Offer_1" : "Bank offer 10% off",
+ "Offer_2" : "delievry Free",
+ "Offer_3" : "EMI starting from 10k",
+ "image_galary" : [
+
+    "https://fdn.gsmarena.com/imgroot/reviews/21/oneplus-nord-2-5g-1/lifestyle/-1200w5/gsmarena_037.jpg" , 
+    "https://gumlet.assettype.com/freepressjournal/2021-08/78b37201-7ca3-4715-9d6b-a155f98b8e4d/ONEPLUS.jpg?w=1200&h=900&auto=format%2Ccompress&fit=max",
+    "https://static.toiimg.com/thumb/msid-85627121,width-400,resizemode-4/85627121.jpg"              
+  
+]
+
+}
+]

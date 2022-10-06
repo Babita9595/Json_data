@@ -1,0 +1,113 @@
+[
+
+{
+    "category_id": "C6" ,
+    "category_name": "Beauty& more",
+    
+    
+    "item_id": "BEAUTY1",               
+    "product_id" : "11be_11a_11u_ty",
+    "Image_url" : "https://i.ibb.co/H73yRM3/61w-VEj-Sq4-L-SY450.jpg" ,
+    "name" : "Eyeshadow Palette",
+    "Rating_1" : 4.1,
+    "Types": "liner",
+    "description": "Swiss Beauty Ultimate 9 Color Eyeshadow Palette",
+    "color": "black",
+    "price" : 499 ,
+    
+    
+    "detail" : "Swiss Beauty Ultimate 9 Color Eyeshadow Palette, Eye Makeup, Multicolor, 9g",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 499,
+    "Old_price" : 750,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+                   "https://i.ibb.co/H73yRM3/61w-VEj-Sq4-L-SY450.jpg",
+                   "https://i.ibb.co/mqFcY5p/51sd-TJb-Wi-HL-SY450.jpg",
+                   "https://i.ibb.co/hZNZDd7/51mdibi-Tyu-L-SY450.jpg"  
+               
+
+            ]
+
+},
+
+
+
+
+
+{
+    "category_id": "C6" ,
+    "category_name": "Beauty& more",
+    
+    
+    "item_id": "BEAUTY2",               
+    "product_id" : "22be_22a_22u_ty",
+    "Image_url" : "https://i.ibb.co/wCqDJ09/61p75w-Bm-C3-L-SY450.jpg"  ,
+    "name" : "Magicolor Lipstick",
+    "Rating_1" : 4.3,
+    "Types": "Lipstic",
+    "description": "Biotique Natural Makeup Magicolor Lipstick",
+    "color": "red",
+    "price" : 600 ,
+    
+    
+    "detail" : "Biotique Natural Makeup Magicolor Lipstick",
+    "Rating": 2500,
+    "Review" : 200,
+    "New_price" : 600,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+                 "https://i.ibb.co/wCqDJ09/61p75w-Bm-C3-L-SY450.jpg",
+                 "https://i.ibb.co/svFySjn/51-Yvr-EWcyg-L-SY450.jpg",
+                 "https://i.ibb.co/NLbP0WZ/61-THd-Cao-Lq-L-SY450.jpg" 
+           
+                ]
+
+
+},
+
+
+
+
+{
+    "category_id": "C6" ,
+    "category_name": "Beauty& more",
+    
+    
+    "item_id": "BEAUTY3",               
+    "product_id" : "33be_33a_33u_ty",
+    "Image_url" : "https://i.ibb.co/jZ6q2WV/91ojx-DNK7-ZL-SX425.jpg" ,
+    "name" : "Eyeliner Pencil ",
+    "Rating_1" : 4.5,
+    "Types": "Lipstic",
+    "description": "Black-Onyx-Eyeliner Pencil For Women",
+    "color": "black",
+    "price" : 999 ,
+    
+    
+    "detail" : "Black - Onyx - Eyeliner Pencil For Women - K7L Cosmetics",
+    "Rating": 100,
+    "Review" : 80,
+    "New_price" : 999,
+    "Old_price" : 1500,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+        "https://i.ibb.co/jZ6q2WV/91ojx-DNK7-ZL-SX425.jpg",
+        "https://i.ibb.co/BV4qC74/416h3-Lz1q-GL-SX425.jpg" ,
+        "https://i.ibb.co/fqRDsd4/71v-ONBCYEs-L-SX425.jpg" 
+           
+                ]
+}
+
+]

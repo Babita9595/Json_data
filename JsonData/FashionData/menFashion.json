@@ -1,0 +1,241 @@
+
+ [
+
+    {
+
+"category_id": "C3" ,
+"category_name": "Fashion",
+"Fashion_id1" : "men",
+
+"scroll_id": 2,
+
+"item_id": "FM1",               
+"product_id" : "11men_11fa_11sh_ion",
+"Image_url" : "https://i.ibb.co/5KdPKtq/sleep-more-work-less-half-sleeve-t-shirt-for-men-base-400x400.jpg" ,
+"name" : "Men T-shirt",
+"Rating_1" : 4.1,
+"Type": "T-shirt",
+"description": "Printed Men Round Neck yellow T-Shirt",
+"color": "yellow",
+"price" : 499 ,
+
+
+"detail" : "Printed Men Round Neck yellow T-Shirt",
+"Rating": 2300,
+"Review" : 500,
+"New_price" : 499,
+"Old_price" : 750,
+"Offer_1" : "Bank offer 10% off",
+"Offer_2" : "delievry Free",
+"Offer_3" : "Coupon Available",
+"image_galary" : [
+
+    
+    "https://i.ibb.co/J2HWJt5/sleep-more-work-less-half-sleeve-t-shirt-for-men-side-view-700x933.jpg"  ,
+    "https://i.ibb.co/LvS3ftr/1.jpg",
+    "https://i.ibb.co/5vjT0T8/3.jpg" 
+    
+        ]
+
+},
+
+
+
+
+
+
+
+{
+
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id1" : "men",
+
+    "scroll_id": 2,
+
+    "item_id": "FM2",               
+    "product_id" : "22men_22fa_22sh_ion",
+    "Image_url" : "https://i.ibb.co/ftcdwCZ/music-panda-half-sleeve-t-shirt-for-men-base-700x933.jpg"  ,
+    "name" : "Men T-shirt",
+    "Rating_1" : 4.3,
+    "Type": "T-shirt",
+    "description": "Printed Men Round Neck black T-Shirt",
+    "color": "black",
+    "price" : 499 , 
+
+    "detail" : "Printed Men Round Neck black T-Shirt",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 499,
+    "Old_price" : 750,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+
+    
+        "https://i.ibb.co/92MH5qB/music-panda-half-sleeve-t-shirt-for-men-base-700x933.jpg"  ,
+        "https://i.ibb.co/X2z1Vxc/2-2.jpg",
+        "https://i.ibb.co/jR0DSCz/2-3.jpg" 
+    
+    
+        ]
+
+},
+
+
+
+
+
+{
+ "category_id": "C3" ,
+ "category_name": "Fashion",
+ "Fashion_id1" : "men",
+
+ "scroll_id": 2,
+
+ "item_id": "FM3",               
+ "product_id" : "33men_33fa_33sh_ion",
+ "Image_url" : "https://i.ibb.co/1v8pYWK/army-green-cotton-solid-shirts-for-men-base-700x933.jpg"   ,
+ "name" : "Men Fit Shirt",
+ "Rating_1" : 4.5,
+ "Type": "Shirt",
+ "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
+ "color": "green",
+ "price" : 999 , 
+    
+ "detail" : "Men Slim Fit Solid Slim Collar Casual Shirt",
+ "Rating": 200,
+ "Review" : 80,
+ "New_price" : 999,
+ "Old_price" : 1500,
+ "Offer_1" : "Bank offer 10% off",
+ "Offer_2" : "delievry Free",
+ "Offer_3" : "Coupon Available",
+ "image_galary" : [
+
+             "https://i.ibb.co/g3sMK3Q/3-1.jpg",
+             "https://i.ibb.co/x56SzCx/3-2.jpg",
+             "https://i.ibb.co/vjJWkzW/3-3.jpg" 
+    
+        ]    
+},
+
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id1" : "men",
+
+    "scroll_id": 2,
+
+    "item_id": "FM4",               
+    "product_id" : "44men_44fa_44sh_ion",
+    "Image_url" : "https://i.ibb.co/vPwLtmT/white-big-leaf-printed-shirt-base-700x933.jpg"  ,
+    "name" : "Men Regular Shirt",
+    "Rating_1" : 4.1,
+    "Type": "Shirt",
+    "description": "Men Regular spread Collar printed Shirt",
+    "color": "white",
+    "price" : 1200 , 
+
+    "detail" : "Men Regular spread Collar printed Shirt  ",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 1200,
+    "Old_price" : 2000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+
+                "https://i.ibb.co/b2GK5q3/4-1.jpg", 
+                "https://i.ibb.co/LCw1JYc/4-2.jpg" ,
+                "https://i.ibb.co/9r5dghR/4-3.jpg" 
+             
+           ]    
+   },    
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id1" : "men",
+
+    "scroll_id": 2,
+
+    "item_id": "FM5",               
+    "product_id" : "55men_55fa_55sh_ion",
+    "Image_url" : "https://i.ibb.co/ZGpwmJC/army-green-cargo-jogger-pants-base-10-1-2022-700x933.jpg" ,
+    "name" : "Men Cargos",
+    "Rating_1" : 3.5,
+    "Type": "Bottom wear",
+    "description": "men green color regular and comfort cargon",
+    "color": "green",
+    "price" : 699 , 
+
+    "detail" : "Men green color regular and comfort cargon",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+
+                "https://i.ibb.co/6ZCcszS/5-2.jpg",
+                 "https://i.ibb.co/7CBz4Nz/5-1.jpg",
+                 "https://i.ibb.co/dfm3h3T/5-3.jpg"  
+             
+           ]    
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id1" : "men",
+
+    "scroll_id": 2,
+
+    "item_id": "FM6",               
+    "product_id" : "66men_66fa_66sh_ion",
+    "Image_url" : "https://i.ibb.co/DwCdSpS/midnight-blue-chinos-for-men-base-23-9-2022-700x933.jpg",
+    "name" : "Regular Fit Men Trousers",
+    "Rating_1" : 3.3,
+    "Type": "Bottom wear",
+    "description": "Regular Fit Men Grey Cotton Blend Trousers",
+    "color": "navy blue",
+    "price" : 2100 , 
+
+    "detail" : "Regular Fit Men Grey Cotton Blend Trousers",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 2100,
+    "Old_price" : 3999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+
+                 "https://i.ibb.co/zVF8h2b/6-1.jpg",
+                 "https://i.ibb.co/0VVcWxX/6-2.jpg",
+                 "https://i.ibb.co/kQpt3NF/6-3.jpg"  
+             
+           ]  
+
+
+}
+]

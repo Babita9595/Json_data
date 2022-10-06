@@ -1,0 +1,233 @@
+[
+
+{
+
+    "category_id": "C1" ,
+    "category_name": "Top offers",
+    
+    
+    "item_id": "TO1",               
+    "product_id" : "11to_11p_11off_er",
+    "Image_url" : "https://i.ibb.co/H73yRM3/61w-VEj-Sq4-L-SY450.jpg" ,
+    "name" : "Eyeshadow Palette",
+    "Rating_1" : 4.1,
+    "Types": "Beauty",
+    "description": "Swiss Beauty Ultimate 9 Color Eyeshadow Palette",
+    "color": "black",
+    "price" : 499 ,
+    
+    
+    "detail" : "Swiss Beauty Ultimate 9 Color Eyeshadow Palette, Eye Makeup, Multicolor, 9g",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 499,
+    "Old_price" : 750,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+                   "https://i.ibb.co/H73yRM3/61w-VEj-Sq4-L-SY450.jpg",
+                   "https://i.ibb.co/mqFcY5p/51sd-TJb-Wi-HL-SY450.jpg",
+                   "https://i.ibb.co/hZNZDd7/51mdibi-Tyu-L-SY450.jpg"  
+               
+
+            ]
+
+},
+
+
+
+
+{
+    "category_id": "C1" ,
+    "category_name": "Top offers", 
+    
+    "item_id": "TO2",               
+    "product_id" : "22to_22p_22off_er",
+    "Image_url" : "https://i.ibb.co/vvGXdcg/2.jpg"  ,
+    "name" : "HP Intel Core I5-",
+    "Rating_1" : 4.3,
+    "types": "Laptop",
+    "description": "Laptop (8GB/512GB SSD/Windows 11/Natural Silver/1.69 Kg)",
+    "color": "silver",
+    "price" : 60000,
+    
+    "detail" : "HP 15s- Fq4021TU Intel Core I5-1155G7 15.6 Inches Notebook Laptop (8GB/512GB SSD/Windows 11/Natural Silver/1.69 Kg)",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 60000,
+    "Old_price" : 80000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon available",
+    "image_galary" : [
+    
+                      "https://i.ibb.co/vvGXdcg/2.jpg",
+                      "https://i.ibb.co/qkjQ60z/2-3.jpg",
+                      "https://i.ibb.co/2WZ5wtR/2-2.jpg" 
+                    
+                    ]
+
+
+},
+
+
+
+
+
+{
+    "category_id": "C1" ,
+    "category_name": "Top offers",
+   
+    
+    "item_id": "TO3",               
+    "product_id" : "33to_33p_33off_er",
+    "Image_url" : "https://i.ibb.co/jH9Yp3k/kidg6.jpg" ,
+    "name" : "Mini Dress",
+    "Rating_1" : 4.5,
+    "Types": "Cloths",
+    "description": "Bowknot Decor Sleeveless Baby Set pack of 2",
+    "color": "blue",
+    "price" : 699 ,
+    
+    
+    "detail" : "Bowknot Decor Sleeveless Baby Set pack of 2",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/jH9Yp3k/kidg6.jpg",
+                   "https://i.ibb.co/3FrRV1Z/kidg6-1.jpg",
+                   "https://i.ibb.co/tpQJtWD/kidg6-2.jpg" 
+            ] 
+
+},
+
+
+
+
+
+{
+
+    "category_id": "C1" ,
+    "category_name": "Top offers",
+    
+    
+    "item_id": "TO4",               
+    "product_id" : "44to_44p_44off_er",
+    "Image_url" :"https://i.ibb.co/3y5chTp/womn4-1.jpg"   ,
+    "name" : "Women Anarkali Kurta",
+    "Rating_1" : 4.1,
+    "Type": "Cloths",
+    "description": "Women Embroidered Georgette Anarkali Kurta (Grey)",
+    "color": "gray",
+    "price" : 1200 ,
+    
+    
+    "detail" : "Women Embroidered Georgette Anarkali Kurta (Grey)",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 1200,
+    "Old_price" : 2000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+               "https://i.ibb.co/vmYgvvM/womn4-2.jpg",
+               "https://i.ibb.co/PWWCLzD/womn4-3.jpg" ,
+               "https://i.ibb.co/1JkmjtB/womn4-4.jpg"  
+
+ 
+    ]
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C1" ,
+    "category_name": "Top offers",
+   
+    
+    "item_id": "TO5",               
+    "product_id" : "55to_55p_55off_er",
+    "Image_url" : "https://i.ibb.co/1QwC9VC/womn5-1.jpg",
+    "name" : "Women Silk Saree",
+    "Rating_1" : 3.5,
+    "Types": "Cloths",
+    "description": "Unstitched Silk Blend Blouse Material Embroidered",
+    "color": "purple",
+    "price" : 699,
+    
+    
+    "detail" : "Unstitched Silk Blend Blouse Material Embroidered",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+                "https://i.ibb.co/1QwC9VC/womn5-1.jpg" ,
+                 "https://i.ibb.co/5rX3DP4/womn5-2.jpg",
+                 "https://i.ibb.co/QHLdV0v/womn5-3.jpg"  
+
+ 
+    ]
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C1" ,
+    "category_name": "Top offers",
+    
+    
+    "item_id": "TO6",               
+    "product_id" : "55to_55p_55off_er",
+    "Image_url" :"https://i.ibb.co/F8RFZX0/womn6-1.jpg"  ,
+    "name" : "Women Georgette Saree",
+    "Rating_1" : 3.3,
+    "Types": "Cloths",
+    "description": "Women Unstitched Georgette Blouse Material Striped",
+    "color": "red",
+    "price" : 2100,
+    
+    
+    "detail" : "Women Unstitched Georgette Blouse Material Striped",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 2100,
+    "Old_price" : 3999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+               "https://i.ibb.co/sqhnnw3/womn6-2.jpg",
+               "https://i.ibb.co/KVb6K7C/womn6-3.jpg",
+               "https://i.ibb.co/mGhVFv9/womn6-4.jpg"
+
+ 
+    ]  
+
+
+}
+
+]

@@ -1,0 +1,229 @@
+[
+
+
+{
+
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL1",               
+    "product_id" : "11ele_11ct_11ro_nics",
+    "Image_url" : "https://i.ibb.co/BPj5yDC/1.jpg",
+    "name" : "HP Intel Core i3",
+    "Rating_1" : 4.1,
+    "types": "Laptop",
+    "description": "Laptop (8GB/512GB SSD/Windows 11/Jet Black/1.69 Kg)",
+    "color": "black",
+    "price" : 49999,
+    
+    "detail" : "HP 15s-Fq2671TU Intel Core I3-1115G4 15.6 Inches Notebook Laptop (8GB/512GB SSD/Windows 11/Jet Black/1.69 Kg)",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 49999,
+    "Old_price" : 65000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon availables",
+    "image_galary" : [
+    
+                 "https://i.ibb.co/BPj5yDC/1.jpg",
+                 "https://i.ibb.co/6gT1dRR/1-1.jpg" ,
+                 "https://i.ibb.co/PMKgFnv/1-2.jpg" 
+    
+                    
+                    ]
+
+},
+
+
+
+
+
+{
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL2",               
+    "product_id" : "22ele_22ct_22ro_nics",
+    "Image_url" : "https://i.ibb.co/vvGXdcg/2.jpg"  ,
+    "name" : "HP Intel Core I5-",
+    "Rating_1" : 4.3,
+    "types": "Laptop",
+    "description": "Laptop (8GB/512GB SSD/Windows 11/Natural Silver/1.69 Kg)",
+    "color": "silver",
+    "price" : 60000,
+    
+    "detail" : "HP 15s- Fq4021TU Intel Core I5-1155G7 15.6 Inches Notebook Laptop (8GB/512GB SSD/Windows 11/Natural Silver/1.69 Kg)",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 60000,
+    "Old_price" : 80000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon available",
+    "image_galary" : [
+    
+                      "https://i.ibb.co/vvGXdcg/2.jpg",
+                      "https://i.ibb.co/qkjQ60z/2-3.jpg",
+                      "https://i.ibb.co/2WZ5wtR/2-2.jpg" 
+                    
+                    ]
+
+},
+
+
+
+
+
+{
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL3",               
+    "product_id" : "33ele_33ct_33ro_nics",
+    "Image_url" : "https://i.ibb.co/m048FHW/3.jpg"  ,
+    "name" : "750-Watt Dry Iron",
+    "Rating_1" : 4.5,
+    "types": "Iron",
+    "description": "Havells Insta 750-Watt Dry Iron (Craneberry)",
+    "color": "purple",
+    "price" : 999,
+    
+    "detail" : "Havells Insta 750-Watt Dry Iron (Craneberry) ",
+    "Rating": 200,
+    "Review" : 80,
+    "New_price" : 999,
+    "Old_price" : 1500,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon available",
+    "image_galary" : [
+    
+                  "https://i.ibb.co/m048FHW/3.jpg",
+                  "https://i.ibb.co/MPGhpg1/3-1.jpg" ,
+                  "https://i.ibb.co/Kq2W4WX/3-2.jpg" 
+                    
+                    ]
+
+
+},
+
+
+
+
+
+{
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL4",               
+    "product_id" : "44ele_44ct_44ro_nics",
+    "Image_url" : "https://i.ibb.co/3MK7R66/4.jpg"   ,
+    "name" : "Steam Iron",
+    "Rating_1" : 4.1,
+    "types": "Iron",
+    "description": "Philips GC1015 Steam Iron (Green)",
+    "color": "light green",
+    "price" : 1200,
+    
+    "detail" : "Philips GC1015 Steam Iron (Green)",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 1200,
+    "Old_price" : 2000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/3MK7R66/4.jpg" ,
+                   "https://i.ibb.co/MhR7f1w/4-1.jpg" 
+                    
+                    ]
+
+},
+
+
+
+
+{
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL5",               
+    "product_id" : "55ele_55ct_55ro_nics",
+    "Image_url" :  "https://i.ibb.co/bRrwCsM/5-1.jpg"  ,
+    "name" : "String Lights Jhalar",
+    "Rating_1" : 3.5,
+    "types": "Jhalar Lights",
+    "description": "RaajaOutlets Lantern Shape 20Led String Lights Jhalar",
+    "color": "light",
+    "price" : 699,
+    
+    "detail" : "RaajaOutlets Lantern Shape 20Led String Lights Jhalar Items for Diwali Christmas Holiday Party Home Decoration",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" :"Coupon available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/bRrwCsM/5-1.jpg",
+                   "https://i.ibb.co/X7MgFvh/5-2.jpg",
+                   "https://i.ibb.co/S5FCXXm/5.jpg" 
+
+                    
+                    ]
+},
+
+
+
+
+
+{
+
+    "category_id": "C4" ,
+    "category_name": "Electronics", 
+
+    "scroll_id": 3,
+    
+    "item_id": "EL6",               
+    "product_id" : "66ele_66ct_66ro_nics",
+    "Image_url" :  "https://i.ibb.co/vJP3NDc/6-1.jpg"  ,
+    "name" : "20 LED morrocon Lights",
+    "Rating_1" : 3.3,
+    "types": "Jhalar Lights",
+    "description": "Ball Lights for Decoration jhalar Items",
+    "color": "light",
+    "price" : 800,
+    
+    "detail" : "20 LED morrocon Lights Hanging Lantern String Ball Lights for Decoration jhalar Items",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 800,
+    "Old_price" : 1200,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon available",
+    "image_galary" : [
+    
+                  "https://i.ibb.co/1zJzRBF/6-3.jpg",
+                  "https://i.ibb.co/VmMKfCD/6-2.jpg",
+                  "https://i.ibb.co/DR3Hdkn/6.jpg"               
+                    
+                    ]
+}
+
+]

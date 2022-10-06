@@ -1,0 +1,242 @@
+[
+    {
+
+        "category_id": "C3" ,
+        "category_name": "Fashion",
+        "Fashion_id2" : "women",
+
+        "scroll_id": 2,
+        
+        "item_id": "FW1",               
+        "product_id" : "11wo_11men_11fa_shion",
+        "Image_url" : "https://i.ibb.co/HdHhLRJ/women-1.jpg" ,
+        "name" : "Women T-shirt",
+        "Rating_1" : 4.1,
+        "Type": "T-shirt",
+        "description": "Printed Women Round Neck T-Shirt",
+        "color": "pink",
+        "price" : 499 ,
+        
+        
+        "detail" : "Printed Women Round Neck T-Shirt",
+        "Rating": 2300,
+        "Review" : 500,
+        "New_price" : 499,
+        "Old_price" : 750,
+        "Offer_1" : "Bank offer 10% off",
+        "Offer_2" : "delievry Free",
+        "Offer_3" : "Coupon Available",
+        "image_galary" : [
+        
+                  "https://i.ibb.co/t3B437d/womn1-1.jpg",
+                  "https://i.ibb.co/z23DwvM/womn1-3.jpg",
+                  "https://i.ibb.co/SwztV16/womn1-2.jpg"
+            
+                ]
+        
+        },
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id2" : "women",
+
+    "scroll_id": 2,
+    
+    "item_id": "FW2",               
+    "product_id" : "22wo_22men_22fa_shion",
+    "Image_url" : "https://i.ibb.co/G9gcPb3/womn2-1.jpg"  ,
+    "name" : "Women T-shirt",
+    "Rating_1" : 4.3,
+    "Type": "T-shirt",
+    "description": "Printed Women Round Neck T-Shirt",
+    "color": "green",
+    "price" : 499 ,
+    
+    
+    "detail" : "Printed Men Round Neck Green T-Shirt",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 499,
+    "Old_price" : 750,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+                   "https://i.ibb.co/G9gcPb3/womn2-1.jpg",   
+                   "https://i.ibb.co/Dkypz6h/womn2-2.jpg",
+                   "https://i.ibb.co/cYpszf2/womn2-3.jpg" 
+            ]
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id2" : "women",
+
+    "scroll_id": 2,
+    
+    "item_id": "FW3",               
+    "product_id" : "33wo_33men_33fa_shion",
+    "Image_url" :   "https://i.ibb.co/G9gcPb3/womn2-1.jpg"  ,
+    "name" : "Women Kurti",
+    "Rating_1" : 4.5,
+    "Type": "kurti",
+    "description": "Women Printed Crepe Flared Kurti (Pink)",
+    "color": "pink",
+    "price" : 999 ,
+    
+    
+    "detail" : "Women Printed Crepe Flared Kurta (Pink)",
+    "Rating": 200,
+    "Review" : 80,
+    "New_price" : 999,
+    "Old_price" : 1550,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+    
+                  "https://i.ibb.co/HhRPY8j/womn3-2.jpg",
+                  "https://i.ibb.co/4mMx4JF/womn3-4.jpg" ,
+                  "https://i.ibb.co/m8b930G/womn3-3.jpg"
+            ]
+
+},
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id2" : "women",
+
+    "scroll_id": 2,
+    
+    "item_id": "FW4",               
+    "product_id" : "44wo_44men_44fa_shion",
+    "Image_url" :"https://i.ibb.co/3y5chTp/womn4-1.jpg"   ,
+    "name" : "Women Anarkali Kurta",
+    "Rating_1" : 4.1,
+    "Type": "kurti",
+    "description": "Women Embroidered Georgette Anarkali Kurta (Grey)",
+    "color": "gray",
+    "price" : 1200 ,
+    
+    
+    "detail" : "Women Embroidered Georgette Anarkali Kurta (Grey)",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 1200,
+    "Old_price" : 2000,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+               "https://i.ibb.co/vmYgvvM/womn4-2.jpg",
+               "https://i.ibb.co/PWWCLzD/womn4-3.jpg" ,
+               "https://i.ibb.co/1JkmjtB/womn4-4.jpg"  
+
+ 
+    ]
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id2" : "women",
+
+    "scroll_id": 2,
+    
+    "item_id": "FW5",               
+    "product_id" : "55wo_55men_55fa_shion",
+    "Image_url" : "https://i.ibb.co/1QwC9VC/womn5-1.jpg",
+    "name" : "Women Silk Saree",
+    "Rating_1" : 3.5,
+    "Type": "Saari",
+    "description": "Unstitched Silk Blend Blouse Material Embroidered",
+    "color": "purple",
+    "price" : 699,
+    
+    
+    "detail" : "Unstitched Silk Blend Blouse Material Embroidered",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 699,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+                "https://i.ibb.co/1QwC9VC/womn5-1.jpg" ,
+                 "https://i.ibb.co/5rX3DP4/womn5-2.jpg",
+                 "https://i.ibb.co/QHLdV0v/womn5-3.jpg"  
+
+ 
+    ]
+
+},
+
+
+
+
+
+{
+    "category_id": "C3" ,
+    "category_name": "Fashion",
+    "Fashion_id2" : "women",
+
+    "scroll_id": 2,
+    
+    "item_id": "FW6",               
+    "product_id" : "66wo_66men_66fa_shion",
+    "Image_url" :"https://i.ibb.co/F8RFZX0/womn6-1.jpg"  ,
+    "name" : "Women Georgette Saree",
+    "Rating_1" : 3.3,
+    "Type": "Saari",
+    "description": "Women Unstitched Georgette Blouse Material Striped",
+    "color": "red",
+    "price" : 2100,
+    
+    
+    "detail" : "Women Unstitched Georgette Blouse Material Striped",
+    "Rating": 200,
+    "Review" : 100,
+    "New_price" : 2100,
+    "Old_price" : 3999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+                 
+               "https://i.ibb.co/sqhnnw3/womn6-2.jpg",
+               "https://i.ibb.co/KVb6K7C/womn6-3.jpg",
+               "https://i.ibb.co/mGhVFv9/womn6-4.jpg"
+
+ 
+    ]    
+
+}
+
+]

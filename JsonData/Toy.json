@@ -1,0 +1,117 @@
+[
+
+{
+    "category_id": "C5" ,
+    "category_name": "Toys",
+    
+    
+    "item_id": "TOY1",               
+    "product_id" : "11t_11o_11y_s",
+    "Image_url" : "https://i.ibb.co/3cKNFB4/411-Kg-E3-I3-L.jpg"    ,
+    "name" : "Babies  Soft Toy",
+    "Rating_1" : 4.1,
+    "Types": "Soft Toy",
+    "description": "Babies Stuffada Soft Toy Plush",
+    "color": "blue",
+    "price" : 499 ,
+    
+    
+    "detail" : "Babies Stuffada Soft Toy Plush for Baby Girl Birthday",
+    "Rating": 2300,
+    "Review" : 500,
+    "New_price" : 499,
+    "Old_price" : 750,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+              "https://i.ibb.co/mSnb0dS/41n-Ms-KQ7e6-L.jpg",
+              "https://i.ibb.co/FgFjBbV/416n-IHmm54-L.jpg",
+              "https://i.ibb.co/nzS8qfJ/41-l-Ggi5-BSL-SY450.jpg" 
+               
+
+            ]
+
+},
+
+
+
+
+
+
+{
+    "category_id": "C5" ,
+    "category_name": "Toys",
+    
+    
+    "item_id": "TOY2",               
+    "product_id" : "22t_22o_22y_s",
+    "Image_url" :  "https://i.ibb.co/Ks8FLjk/51-Uc-LViphc-L-SY450.jpg"   ,
+    "name" : "Animal Nemo Fish Toy ",
+    "Rating_1" : 4.3,
+    "Types": "Soft Toy",
+    "description": "Tickles Plush Animal Nemo Fish Toy (Color: Orange and White Size)",
+    "color": "white & orange",
+    "price" : 600 ,
+    
+    
+    "detail" : "Tickles Plush Animal Nemo Fish Toy (Color: Orange and White Size)",
+    "Rating": 2500,
+    "Review" : 200,
+    "New_price" : 600,
+    "Old_price" : 999,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+                  "https://i.ibb.co/nscc6JD/71t-Qa-G9ck-FL-SY450.jpg" ,
+                   "https://i.ibb.co/RBJVPXD/513-Exkyu-NHL-SY450.jpg",
+                   "https://i.ibb.co/CvNF0k1/51lmt-Cxw-Ca-L-SX450.jpg" 
+
+               
+
+            ]
+
+},
+
+
+
+
+{
+    "category_id": "C5" ,
+    "category_name": "Toys",
+    
+    
+    "item_id": "TOY3",               
+    "product_id" : "33t_33o_33y_s",
+    "Image_url" : "https://i.ibb.co/DppnX1k/41-I-T4fr5-HL-SY450.jpg"  ,
+    "name" : "Small Yoda Soft Toy",
+    "Rating_1" : 4.5,
+    "Types": "Soft Toy",
+    "description": "Baby Yoda Star Wars The Child Plush Toy",
+    "color": "pink & yellow",
+    "price" : 999,
+    
+    
+    "detail" : "Baby Yoda Star Wars The Child Plush Toy, 11-Inch Small Yoda-like Soft Figure from The Mandalorian(yellow,pink)",
+    "Rating": 100,
+    "Review" : 80,
+    "New_price" : 999,
+    "Old_price" : 1500,
+    "Offer_1" : "Bank offer 10% off",
+    "Offer_2" : "delievry Free",
+    "Offer_3" : "Coupon Available",
+    "image_galary" : [
+           
+                  "https://i.ibb.co/djC31jN/41-I-T4fr5-HL-SY450.jpg",
+                  "https://i.ibb.co/pbrnVDQ/41q-LCb-ZS89-L-SY450-1.jpg",
+                  "https://i.ibb.co/7W3dXF7/419z-gvo-Cq-L-SY450.jpg"
+
+            ]
+
+}
+
+
+]

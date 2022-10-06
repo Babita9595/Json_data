@@ -1,0 +1,74 @@
+[
+   
+   {
+
+"Category_id": "C1",
+"Category_name": "Top offers",
+"image": "https://png.pngtree.com/png-clipart/20200701/original/pngtree-mega-sale-discount-offer-banner-png-image_5390627.jpg"
+
+},
+
+{
+
+    "Category_id": "C2",
+    "Category_name": "Mobile",
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/phones-switch-apps.jpg"
+    
+    },
+
+
+
+    {
+
+     "Category_id": "C3",
+        
+     "image" : "https://thumbs.dreamstime.com/b/man-woman-fashion-models-looking-away-38190286.jpg" ,
+     "Category_name": "Fashion",
+     "Sub_Category": [
+
+       {
+         "Fashion_id1": "men",
+         "Fashion_id2": "women",
+         "Fashion_id3": "babygirl",
+         "Fashion_id4": "babyboy"
+
+ 
+         }
+
+
+        ]
+        
+        
+     },
+            
+
+
+
+        {
+
+            "Category_id": "C4",
+            "Category_name": "Electronics",
+            "image": "https://www.pngitem.com/pimgs/m/247-2474633_transparent-electronics-items-png-png-download.png" 
+            
+         },
+            
+
+
+         {
+
+           "Category_id": "C5",
+           "Category_name": "Toys",
+           "image": "https://t3.ftcdn.net/jpg/00/92/19/58/360_F_92195899_7V77T5HiId48lQI1kTRgKfIS62vKHwtE.jpg" 
+                
+        },
+
+
+         {
+
+          "Category_id": "C6",
+          "Category_name": "Beauty& more",
+          "image": "https://images.news18.com/ibnlive/uploads/2021/10/makeup-kit.jpg"  
+                    
+          }
+              
+         ]
